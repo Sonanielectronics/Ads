@@ -204,6 +204,8 @@ class class1 {
             req.body.admob_native_display_type;
           OriginalData[0].items_beetween_banner_ads =
             req.body.items_beetween_banner_ads;
+          OriginalData[0].items_between_native_ads = 
+            req.body.items_between_native_ads;
           OriginalData[0].items_between_interstitial_ads =
             req.body.items_between_interstitial_ads;
           OriginalData[0].ads_status = req.body.ads_status;
