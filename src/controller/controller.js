@@ -92,6 +92,7 @@ class class1 {
           admob_native_display_type: "",
           items_beetween_banner_ads: "",
           items_between_interstitial_ads: "",
+          items_between_native_ads: "",
           ads_status: "",
           message: "",
         };
