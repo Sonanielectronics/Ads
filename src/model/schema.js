@@ -93,6 +93,9 @@ const blogSchema = new mongoose.Schema({
   items_between_interstitial_ads: {
     type: String,
   },
+  items_between_native_ads: {
+    type: String,
+  },
   ads_status: {
     type: String,
   },
