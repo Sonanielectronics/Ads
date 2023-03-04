@@ -152,6 +152,8 @@ class class1 {
             items_beetween_banner_ads: req.body.items_beetween_banner_ads,
             items_between_interstitial_ads:
               req.body.items_between_interstitial_ads,
+            items_between_native_ads:
+            req.body.items_between_native_ads,
             ads_status: req.body.ads_status,
             message: req.body.message,
           });
